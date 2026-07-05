@@ -1,4 +1,4 @@
 # website_placeholder
 First website for Ulysses, it's a placeholder
 
-ulysseslabs.tech
+[Ulysses Labs](ulysseslabs.tech)
